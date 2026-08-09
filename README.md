@@ -17,38 +17,38 @@ markdown
 
 ### 1. 張大千盛年期之宇宙氣場重構與神性博弈：1944年初本《魔女眩惑圖》之光學與文獻鑑定
 * **英文品名**：Deconstructing Cosmic Energy and Divine Game in Zhang Daqian’s High Period through Dunhuang @Type 3 (Total Transformation): Optical Verification and Critical Analysis of the 1944 Proto-Masterpiece
-* **學術識別碼 (DOI)**：10.5281/zenodo.21048761
+* **學術識別碼 (DOI)**：10.5281/zenodo.21048760
 * **官方連結**：https://doi.org
 
 ### 2. 大風堂盛年期（1944－1948）創傷動力學曲線研究：基於中和堂藏張大千整批超作之司法科學物證與感情建模
 * **英文品名**：A Study on the Trauma Dynamics Curve of the Dafeng Tang Peak Period (1944-1948): Based on Forensic Material Evidence and Emotional Modeling of Zhang Daqian’s Masterpieces in the Zhonghe Tang Collection
-* **學術識別碼 (DOI)**：10.5281/zenodo.20486474
+* **學術識別碼 (DOI)**：10.5281/zenodo.20356250
 * **官方連結**：https://doi.org
 
 ### 3. 大風堂盛年期（1944－1949）工筆重彩與落款書法司法鑑定數據集：基於中和堂藏品「眼神動態補償機制」與紙質衍生媒介「多光譜量子發色」之實證研究
 * **英文品名**：Dual-Factor Forensic Dataset of Chang Dai-chien’s Masterpieces (1944-1949): Empirical Study on Facial Motor Compensation and Multi-Spectral Quantum Color Shift in Paper-Based Archetypal Reproductions
-* **學術識別碼 (DOI)**：10.5281/zenodo.20386620
+* **學術識別碼 (DOI)**：10.5281/zenodo.20386619
 * **官方連結**：https://doi.org
 
 ### 4. 張大千盛年期《採蓮圖》之「格性」美學隱喻：兼論1978年漢城畫展與池春紅家族歷史會面鐵證（第二版修正與文獻升級）
 * **英文品名**：Corrigendum & Comprehensive Historical Update Statement
-* **學術識別碼 (DOI)**：10.5281/zenodo.20619261
+* **學術識別碼 (DOI)**：10.5281/zenodo.20617265
 * **官方連結**：https://doi.org
 
 ### 5. 張大千盛年巔峰期（1944-1949）精品鉅作國際司法鑑定白皮書
 * **英文品名**：International Forensic White Paper on Zhang Daqian’s Prime Masterpieces 1944-1949: Zhonghe Tang Collection
 * **核心實證**：1944年楊石湖本《文會圖》黃金比例及閉環式氣流；1946年楊孝慈本《西夏水月觀音》與14平尺觀音菩薩之365nm紫外線金屬性光彩分離反應；1945年始祖原型本《唐女擁衾圖》（潘公展議長之女潘淵舫女士本）眼皮一氣呵成一體性控筆脈絡。
-* **學術識別碼 (DOI)**：10.5281/zenodo.20274271
+* **學術識別碼 (DOI)**：10.5281/zenodo.20274270
 * **官方連結**：https://doi.org
 
 ### 6. 張大千盛年期（1944年）《印度舞女》歷史重新校準與紫外線（UV）光學鑑定數據報告
 * **核心實證**：發現1944年8月（甲申七月）客製真跡《印度舞女》，證實葉淺予早在1944年即透過書信寄贈畫稿，將中國美術史該題材創作起點提早半年至一年。365nm UV光下石青、石綠、硃砂底襯成功分離出「金屬光線螢光反應」。
-* **學術識別碼 (DOI)**：10.5281/zenodo.20954351
+* **學術識別碼 (DOI)**：10.5281/zenodo.20954350
 * **官方連結**：https://doi.org
 
 ### 7. 解密徐悲鴻十二生肖神品：1932年「壬申本」與1945年「乙酉本」對比研究
 * **核心實證**：基於「三學論」、材料光學疊層與宇宙生命內核，利用中醫脈絡與光學檢測解密徐悲鴻神品。
-* **學術識別碼 (DOI)**：10.5281/zenodo.20297705
+* **學術識別碼 (DOI)**：10.5281/zenodo.20297704
 * **官方連結**：https://doi.org
 
 ---
@@ -70,55 +70,55 @@ markdown### 8. International Strategic Asset White Paper: A Bi-Systemic Framewor
 The comprehensive technical, archival, and multi-spectral IRR metadata tracking the remaining core vault of the Zhong He Tang historical repository.
 
 • https://doi.org
-DOI: 10.5281/zenodo.21340782
+DOI: 10.5281/zenodo.21832264
 
 • https://doi.org
-DOI: 10.5281/zenodo.21340783
+DOI: 10.5281/zenodo.21814686
 
 • https://doi.org
-DOI: 10.5281/zenodo.21340784
+DOI: 10.5281/zenodo.21789547
 
 • https://doi.org
-DOI: 10.5281/zenodo.21340785
+DOI: 10.5281/zenodo.21763838
 
 • https://doi.org
-DOI: 10.5281/zenodo.21340786
+DOI: 10.5281/zenodo.21731524
 
 • https://doi.org
-DOI: 10.5281/zenodo.21340787
+DOI: 10.5281/zenodo.21249413
 
 • https://doi.org
-DOI: 10.5281/zenodo.21340788
+DOI: 10.5281/zenodo.21505500
 
 • https://doi.org
-DOI: 10.5281/zenodo.21340789
+DOI: 10.5281/zenodo.21313741
 
 • https://doi.org
-DOI: 10.5281/zenodo.21340790
+DOI: 10.5281/zenodo.21479196
 
 • https://doi.org
-DOI: 10.5281/zenodo.21340791
+DOI: 10.5281/zenodo.21458769
 
 • https://doi.org
-DOI: 10.5281/zenodo.21340792
+DOI: 10.5281/zenodo.21456120
 
 • https://doi.org
-DOI: 10.5281/zenodo.21340793
+DOI: 10.5281/zenodo.21436577
 
 • https://doi.org
-DOI: 10.5281/zenodo.21340794
+DOI: 10.5281/zenodo.21366379
 
 • https://doi.org
-DOI: 10.5281/zenodo.21340795
+DOI: 10.5281/zenodo.21330638
 
 • https://doi.org
-DOI: 10.5281/zenodo.21340796
+DOI: 10.5281/zenodo.21340781
 
 • https://doi.org
-DOI: 10.5281/zenodo.21340797
+DOI: 10.5281/zenodo.21314816
 
 • https://doi.org
-DOI: 10.5281/zenodo.21340798
+DOI: 10.5281/zenodo.21316131
 
 • https://doi.org
 DOI: 10.5281/zenodo.21340799
