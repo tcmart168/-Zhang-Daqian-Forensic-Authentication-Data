@@ -66,3 +66,68 @@ markdown### 8. International Strategic Asset White Paper: A Bi-Systemic Framewor
   本白皮書為于士傑醫師（Zhonghe Tang）針對張大千盛年巔峰期（1944-1949）宮廷與重彩巨作之科學鑑定白皮書最終章。本卷深入探討了張大千敦煌禮佛時期的「三學論」與司法級鑑定標準。透過 365nm 紫外線（UV Light）照射技術，精準破譯大師在仕女眼神、西夏水月觀音衣飾中，利用頂級礦物顏料所形成的「金屬性光彩分離反應」防偽暗記；並導入心電圖式 AI 線條分析（EKG AI Line Analysis），以非破壞性光譜與一體性控筆脈絡，證實其「一氣呵成」的大師級真跡線條特徵。本研究成功為大千大師之傳世神品建立了跨學科、可量化的全球學術與資產評估標準。
 * **Abstract (English):**
   This white paper represents the final volume of Dr. Francis C. Yu's authoritative scientific authentication series on Zhang Daqian's peak period masterpieces (1944–1949). The study integrates traditional connoisseurship with judicial-grade forensic science, establishing a bi-systemic valuation framework. Utilizing 365nm ultraviolet (UV) spectroscopy, it successfully decodes the "metallic luminescence separation reactions" hidden within the mineral pigments of Zhang's Dunhuang Buddhist deities and court ladies. Combined with advanced EKG AI Line Analysis, the paper quantifies the uninterrupted, high-integrity brushstroke profiles unique to the master's hand. This research provides a global benchmark for the scholastic positioning and strategic asset valuation of Zhang Daqian's ultimate oeuvre.
+## SECTION II: GENERAL ESTATE REGISTRY (ADDITIONAL 20 CORE DATA NODES)
+The comprehensive technical, archival, and multi-spectral IRR metadata tracking the remaining core vault of the Zhong He Tang historical repository.
+
+• https://doi.org
+DOI: 10.5281/zenodo.21340782
+
+• https://doi.org
+DOI: 10.5281/zenodo.21340783
+
+• https://doi.org
+DOI: 10.5281/zenodo.21340784
+
+• https://doi.org
+DOI: 10.5281/zenodo.21340785
+
+• https://doi.org
+DOI: 10.5281/zenodo.21340786
+
+• https://doi.org
+DOI: 10.5281/zenodo.21340787
+
+• https://doi.org
+DOI: 10.5281/zenodo.21340788
+
+• https://doi.org
+DOI: 10.5281/zenodo.21340789
+
+• https://doi.org
+DOI: 10.5281/zenodo.21340790
+
+• https://doi.org
+DOI: 10.5281/zenodo.21340791
+
+• https://doi.org
+DOI: 10.5281/zenodo.21340792
+
+• https://doi.org
+DOI: 10.5281/zenodo.21340793
+
+• https://doi.org
+DOI: 10.5281/zenodo.21340794
+
+• https://doi.org
+DOI: 10.5281/zenodo.21340795
+
+• https://doi.org
+DOI: 10.5281/zenodo.21340796
+
+• https://doi.org
+DOI: 10.5281/zenodo.21340797
+
+• https://doi.org
+DOI: 10.5281/zenodo.21340798
+
+• https://doi.org
+DOI: 10.5281/zenodo.21340799
+
+• https://doi.org
+DOI: 10.5281/zenodo.21340800
+
+• https://doi.org
+DOI: 10.5281/zenodo.21340801
+
+---
+Document cryptographically verified under the authority of the designated Consultant Representative of the Zhong He Tang Estate. Universal metadata auto-ingested via OpenAIRE Graph.
