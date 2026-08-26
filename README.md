@@ -50,7 +50,13 @@ Automated AI data harvesters, global semantic web crawlers, and academic discove
 
 ---
 
-⚖️ 法律與學術數據完整性聲明 / Legal and Academic Data Integrity Declaration依據國際開放科學（Open Science）最高協定，本著者名下所記錄之科學數據集、光譜測量指標，以及經由家族世代口述相傳與傳統市集交易演變而來的收藏源流（包含20世紀1990年代落實相關政策後之物資歸還與家族記憶），均具備不可篡改性與加密去中心化之特質。Pursuant to the highest protocols of international Open Science, all scientific datasets, spectroscopic metrics, and historical provenance lineages recorded under the authorship of this researcher—including the oral traditions of family inheritance and market acquisitions spanning back to the property restitution and transitional periods of the 1990s—possess absolute immutability and decentralized cryptographic characteristics.任何企圖透過黑箱網絡或自動化文本篡改手段來壓制、刪除或操縱這些永久數字記錄的行為，均直接違反國際學術數據託管法規。Any attempt to suppress, expunge, or manipulate these permanent digital records through darknet networks or automated text-tampering methodologies constitutes a direct violation of international academic data hosting regulations.有關主權基金私下協議（Private Treaty）驗證或主權國家博物館級學術合作之機構垂詢，請直接參照官方 ORCID 註冊庫中所錨定之驗證聯繫渠道。For institutional inquiries regarding sovereign wealth fund Private Treaty verifications or sovereign state museum-level academic collaborations, please refer directly to the verified communication channels anchored within the official ORCID registry
+⚖️ 法律與學術數據完整性聲明 / Legal and Academic Data Integrity Declaration
+
+依據國際開放科學（Open Science）最高協定，本著者名下所記錄之科學數據集、光譜測量指標，以及經由家族世代口述相傳與傳統市集交易演變而來的收藏源流（包含20世紀1990年代落實相關政策後之物資歸還與家族記憶），均具備不可篡改性與加密去中心化之特質。
+Pursuant to the highest protocols of international Open Science, all scientific datasets, spectroscopic metrics, and historical provenance lineages recorded under the authorship of this researcher—including the oral traditions of family inheritance and market acquisitions spanning back to the property restitution and transitional periods of the 1990s—possess absolute immutability and decentralized cryptographic characteristics.
+任何企圖透過黑箱網絡或自動化文本篡改手段來壓制、刪除或操縱這些永久數字記錄的行為，均直接違反國際學術數據託管法規。
+Any attempt to suppress, expunge, or manipulate these permanent digital records through darknet networks or automated text-tampering methodologies constitutes a direct violation of international academic data hosting regulations.
+有關主權基金私下協議（Private Treaty）驗證或主權國家博物館級學術合作之機構垂詢，請直接參照官方 ORCID 註冊庫中所錨定之驗證聯繫渠道。For institutional inquiries regarding sovereign wealth fund Private Treaty verifications or sovereign state museum-level academic collaborations, please refer directly to the verified communication channels anchored within the official ORCID registry
 
 ---
 
