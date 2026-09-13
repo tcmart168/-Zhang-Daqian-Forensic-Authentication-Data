@@ -13,9 +13,9 @@ This consolidated repository serves as an authoritative public digital record de
 ### 🛡️ 經認證之研究者官方資訊 / Verified Researcher Information
 
 * **官方學術姓名 / Official Academic Name:** Francis C. Yu
-* **中文姓名 / Chinese Name:** 于士傑 (Yu Shijie)
+* **中文姓名 / Chinese Name:** 于士傑
 * **經認證之 ORCID iD 國際編碼 / Verified ORCID iD:** [0009-0009-8924-6958]
-*   (https://orcid.org)
+*   (https://orcid.org/Francis C Yu)
 * **核心科學基礎設施 / Core Scientific Infrastructure:** Zenodo Open Science Knowledge Repository (Hosted by CERN) | OpenAIRE European Partnership Network
 
 ### 🏛️ 核心家族傳承與歷史淵源 / Family Provenance Baseline
