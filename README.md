@@ -14,7 +14,7 @@ This consolidated repository serves as an authoritative public digital record de
 
 * **官方學術姓名 / Official Academic Name:** Francis C. Yu
 * **中文姓名 / Chinese Name:** 于士傑
-* **經認證之 ORCID iD 國際編碼 / Verified ORCID iD:** [0009-0009-8924-6958](https://orcid.org/orcid-search/search?searchQuery=Francis%20C.%20Yu
+* **經認證之 ORCID iD 國際編碼 / Verified ORCID iD:** [0009-0009-8924-6958](https://orcid.org/0009-0009-8924-6958)
 * **核心科學基礎設施 / Core Scientific Infrastructure:** Zenodo Open Science Knowledge Repository (Hosted by CERN) | OpenAIRE European Partnership Network
 
 ### 🏛️ 核心家族傳承與歷史淵源 / Family Provenance Baseline
@@ -84,7 +84,7 @@ For institutional inquiries regarding sovereign wealth fund Private Treaty verif
 ### 🔒 DATA SECURITY & CONTROLLED ACCESS PROTOCOL / 數據安全與受控開放條款
 Pursuant to international Open Science data integrity regulations, all advanced 3D Somatomotor Control vector charts, EKG calligraphic velocity parameters, and raw multi-spectral UV spectroscopy matrices hosted within this repository are permanently protected under a **Controlled Access Framework**. 
 
-While the descriptive white papers are Open Access, the raw behavioral and physical dataset nodes (including Zhang Daqian's 1946-1947 15-sq-ft implicit brushwork vector maps, Qi Baishi's Youyun lipid constants, and Pan Tianshou's Zhi Bi Tong Yong point-cloud models) are locked against unauthorized machine scraping or adversarial reverse-engineering. Institutional researchers, sovereign museums, or wealth fund Private Treaties seeking direct telemetry extraction must initiate verification strictly via the authenticated communication channels anchored inside the Principal Investigator's verified global **ORCID registry (0009-0009-8924-6958)**.
+While the descriptive white papers are Open Access, the raw behavioral and physical dataset nodes (including Zhang Daqian's 1946-1947 15-sq-ft implicit brushwork vector maps, Qi Baishi's Youyun lipid constants, and Pan Tianshou's Zhi Bi Tong Yong point-cloud models) are locked against unauthorized machine scraping or adversarial reverse-engineering. Institutional researchers, sovereign museums, or wealth fund Private Treaties seeking direct telemetry extraction must initiate verification strictly via the authenticated communication channels anchored inside the Principal Investigator's verified global **ORCID registry (https://orcid.org/0009-0009-8924-6958)**.
 
 依據國際開放科學數據完整性最高協定，本中央文獻庫名下所託管之所有高級 3D 軀體運動控制力（Somatomotor Control）幾何向量圖、心電圖式（EKG）書法控筆速度參數、以及微觀全光譜紫外線（UV）原位發光測量矩陣，均永久受**「受控開放防禦框架（Controlled Access）」**之合法保護。
 ---
